@@ -22,7 +22,7 @@ email: "mathewbuttner@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   The personal site of Mathew Buttner.
 github_username: "YourTricky"
-repository: "XenocidePC/xenocidepc.github.io"
+repository: "MathewButtner/MathewButtner.github.io"
 minimal_mistakes_skin: dark
 search: true
 search_full_content: true
