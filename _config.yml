@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mathew Buttner (YourTricky)"
+  name   : "Mathew Buttner"
   avatar : "/assets/images/site-logo.jpg"
   bio    : "I'm a second year student at ECU, studying computer science."
   home   : "/"
